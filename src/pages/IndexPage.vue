@@ -80,17 +80,19 @@
       <q-card class="q-ma-sm card" style="width: 60%;">
         <q-card-section>
           <div class="text-h6 text-grey">About</div>
-          <p>Hi ! My name is Clément Bonal, I am a French software developer that is passionate about developing apps. 
-            Through my journey, I have come to enjoy the process and challenge of being able to quickly develop MVP (minimum viable product) to launch new business ideas.</p>
+          <p>Hi! My name is Clément Bonal, and I am a French software developer passionate about developing apps. 
+            Through my journey, I have come to enjoy the process and challenge of quickly developing MVPs (minimum viable products) 
+            to launch new business ideas.</p>
             <q-separator />
           <p></p>
-          <p>Indeed 35% of startups fail because they spend time, effort, and money on a product or service that no one needs or already exists <span class="text-italic">(CB Insights, 2022)</span>
-              and 20% fail within the first year if there’s no market for it <span class="text-italic">(Fundera, 2021)</span>.
+          <p>Indeed, 35% of startups fail because they spend time, effort, and money on a product or service that no one needs or 
+            already exists <span class="text-italic">(CB Insights, 2022)</span>, 
+            and 20% fail within the first year if there’s no market for it <span class="text-italic">(Fundera, 2021)</span>.
             <br/>
-              Thus MVPs are the best way to test a market and validate your product or service.
+            Thus, MVPs are the best way to test a market and validate your product or service.
             <br />
-              Which is why I offer my service in order to help entrepreneurs (like you) succeed by helping them to quicly develop an efficient MVP at affordable cost 
-              and immediatly get better results.
+            This is why I offer my services to help entrepreneurs (like you) succeed by quickly developing an efficient MVP 
+            at an affordable cost, immediately achieving better results.
           </p>
         </q-card-section>
       </q-card>
